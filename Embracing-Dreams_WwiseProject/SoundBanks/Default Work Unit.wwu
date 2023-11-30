@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{73F79372-1943-4DD4-82B5-5A8396AD8DF6}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{73F79372-1943-4DD4-82B5-5A8396AD8DF6}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main_Soundbank" ID="{B78F68D8-C8BD-4E2B-92BC-1D59B42A7CD5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Level_Three_Music" ID="{EB03BA78-0C78-40B7-BCEB-7CCF667D6CA4}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ending_Cutscene_Music" ID="{E3430E86-C36F-42D5-ACBF-611BE3ACDDDE}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_bumping_into_enemy" ID="{A50870CC-6483-433F-B592-01AA3863A5A8}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Its_not_my_fault_Im_this_tall" ID="{CDF89332-0537-445F-9AF4-EB7736E2DDD6}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_picking_up_note" ID="{D84E9F3F-B429-4579-AA9E-492B8C588D06}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_I_shouldnt_be_here" ID="{2B91E6E4-69CC-46B6-A091-69DB6340139D}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Sobbing" ID="{C5ED0E16-DA82-46EE-A1F9-D50D309E1E55}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DesignScene_Music" ID="{D615252A-D960-477E-A803-F3C835B7EF3C}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_button_click" ID="{02080BEB-C7FA-4787-A877-5397DBED9E33}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_I_cant_rest_yet" ID="{9CC874AD-2143-48C8-B71B-AC087FDFAB88}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Piano_strings" ID="{F38E8970-0700-4932-8E09-AD14D3D79AE7}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Mom_stop_Im_trying" ID="{B02C6A01-8865-496F-9F1F-B58F769A4082}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_I_need_to_recharge" ID="{2166AB38-8826-4A97-B707-AB8927FFB7FD}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_I_cant_waste_time_here" ID="{487A3542-8338-4B0F-8BD9-90F4D0442ED8}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_footsteps" ID="{3E198839-2770-4C0B-8ED2-2F9D310069C0}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_climbing" ID="{BEC6FC96-F0BC-4CCC-BE5B-D2F44480A758}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_I_need_to_go_back" ID="{EB4ECFB7-B956-4D51-B550-72B318DB4F1C}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Beginning_Cutscene_Music" ID="{0E8AFF19-7194-4DFE-8B54-A59BAC6CD646}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Finally" ID="{D0E7B5C4-F2BB-4E66-8F30-E684FD167B08}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_music_note_respawn" ID="{6D3EBEC0-6A3C-4F48-87F9-EDDEF16D7D20}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_This_sucks" ID="{60B16B3E-14AF-4F68-913C-9BA1A2F94DFA}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Level_Two_Music" ID="{FD3F1C6C-EF71-4F6B-B0F6-0EACB6BAC146}" WorkUnitID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

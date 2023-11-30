@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 61410b1bac221274db72df8d9e249e9d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RemhyperSprites_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 433.5
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.56465256, y: 0.49559656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8a5fdc2c2ed3148a34877a452d14be
+      internalID: -377449746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 433.5
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.7456798, y: 0.47358006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf83fc37cbfb814e872b1999d78bdd3
+      internalID: -1557421035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_2
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 0
+        width: 433.5
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.6422357, y: 0.46917683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4af59f5a9057d4c9ec7d4bf99cd36c
+      internalID: 1032031892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 433.5
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.57758296, y: 0.4779834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311a53a906b7fb4e9d5d4613f366bc0
+      internalID: -1983014531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_4
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 433.5
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.6034441, y: 0.46917683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79400ebf6d3345b4f83e3772b1d16f22
+      internalID: -1222096699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 0
+        width: 433.5
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.629305, y: 0.4383538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f503cb782e977d41ae30f6005ba68c1
+      internalID: 1214160333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_6
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 0
+        width: 369
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.57206315, y: 0.4603701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58617141d4561654db3ac72fc4db43b6
+      internalID: 302037601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RemhyperSprites_7
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 0
+        width: 473
+        height: 1273
+      alignment: 9
+      pivot: {x: 0.31918123, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eee83980b912d4d8bc94bc2f38940e
+      internalID: 870876145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b7fdc4b5ef0fac4d8b6fd62f1563d32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RemhyperSprites_0: -377449746
+      RemhyperSprites_1: -1557421035
+      RemhyperSprites_2: 1032031892
+      RemhyperSprites_3: -1983014531
+      RemhyperSprites_4: -1222096699
+      RemhyperSprites_5: 1214160333
+      RemhyperSprites_6: 302037601
+      RemhyperSprites_7: 870876145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

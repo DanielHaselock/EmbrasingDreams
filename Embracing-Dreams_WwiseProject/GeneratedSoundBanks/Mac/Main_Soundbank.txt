@@ -1,0 +1,48 @@
+Event	ID	Name			Wwise Object Path	Notes
+	27021568	Play_I_shouldnt_be_here			\Default Work Unit\Play_I_shouldnt_be_here	
+	292438566	Play_I_cant_rest_yet			\Default Work Unit\Play_I_cant_rest_yet	
+	343079892	Play_Sobbing			\Default Work Unit\Play_Sobbing	
+	516137742	Play_I_need_to_recharge			\Default Work Unit\Play_I_need_to_recharge	
+	537418623	Play_music_note_respawn			\Default Work Unit\Play_music_note_respawn	
+	709474718	Play_bumping_into_enemy			\Default Work Unit\Play_bumping_into_enemy	
+	716733244	Play_Its_not_my_fault_Im_this_tall			\Default Work Unit\Play_Its_not_my_fault_Im_this_tall	
+	1149159311	Play_button_click			\Default Work Unit\Play_button_click	
+	1273704050	Play_Ending_Cutscene_Music			\Default Work Unit\Play_Ending_Cutscene_Music	
+	1316737242	Play_Piano_strings			\Default Work Unit\Play_Piano_strings	
+	1472068577	Play_Level_Three_Music			\Default Work Unit\Play_Level_Three_Music	
+	2253984371	Play_I_need_to_go_back			\Default Work Unit\Play_I_need_to_go_back	
+	2537712526	Play_This_sucks			\Default Work Unit\Play_This_sucks	
+	2615446531	Play_climbing			\Default Work Unit\Play_climbing	
+	2780927730	Play_I_cant_waste_time_here			\Default Work Unit\Play_I_cant_waste_time_here	
+	2852492932	Play_DesignScene_Music			\Default Work Unit\Play_DesignScene_Music	
+	3121981038	Play_Beginning_Cutscene_Music			\Default Work Unit\Play_Beginning_Cutscene_Music	
+	3615135511	Play_Level_Two_Music			\Default Work Unit\Play_Level_Two_Music	
+	3838431260	Play_picking_up_note			\Default Work Unit\Play_picking_up_note	
+	3854155799	Play_footsteps			\Default Work Unit\Play_footsteps	
+	4047841495	Play_Mom_stop_Im_trying			\Default Work Unit\Play_Mom_stop_Im_trying	
+	4079556579	Play_Finally			\Default Work Unit\Play_Finally	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	67556567	Rem's Theme Piano	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Rem's Theme Piano_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Beginning_Cutscene_Music\Beginning_Cutscene\Rem's Theme Piano		9421940
+	118269305	Music note respawn	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\glass_004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music note respawn		61122
+	178660132	I need to go back	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\I need to go back_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\I need to go back		358464
+	233957570	Finally! Here's the AAA	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Finally! Here’s the AAA_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Finally! Here's the AAA		292928
+	318838562	Sostenuto Level 3 Loopable	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Sostenuto Level 3 Loopable_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level_Three_Music\Sostenuto Level 3 Loopable\Sostenuto Level 3 Loopable		2441072
+	345983382	Rem's Theme Orchestra	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Rem's Theme Orchestra_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Ending_Cutscene_Music\Rem's Theme Orchestra\Rem's Theme Orchestra		12741436
+	416999979	Climbing	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\footstep_grass_002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Climbing		121700
+	494193214	Picking up note	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\picking_up_note_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Picking up note		76808
+	511316756	Button Click	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\button_click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Button Click		16104
+	529823206	I can't rest yet	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\I can’t rest yet_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\I can't rest yet		417856
+	594029738	Mom stop I'm trying	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Mom stop I’m trying_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mom stop I'm trying		356416
+	618250678	I can't waste time here	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\I can’t waste time here_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\I can't waste time here		991296
+	674475223	Footsteps	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\walking_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps		18236
+	749834874	I need to recharge	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\I need to recharge_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\I need to recharge		262208
+	816024009	It's not my fault I'm this tall	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\It’s not my fault I’m this tall_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\It's not my fault I'm this tall		358464
+	833631056	Sobbing	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Sobbing_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Sobbing		456768
+	888773837	Sostenuto Level 1 Loopable	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Sostenuto Level 1 Loopable_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\DesignScene_Music\Sostenuto Level 1 Loopable\Sostenuto Level 1 Loopable		1628012
+	895426406	Bumping into enemy	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\bumping_into_enemy_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bumping into enemy		261168
+	935154625	Piano strings	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Piano strings_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Piano strings		618560
+	997949217	Sostenuto Level 2 Loopable	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\Sostenuto Level 2 Loopable_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level_Two_Music\Sostenuto Level 2 Loopable\Sostenuto Level 2 Loopable		2448604
+	1069401619	I shouldn't be here	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\I shouldn’t be here_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\I shouldn't be here		278592
+	1071143674	This sucks	Y:\Documents\GitHub\Embracing-Dreams\Embracing-Dreams_WwiseProject\.cache\Mac\SFX\This sucks_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\This sucks		239680
+

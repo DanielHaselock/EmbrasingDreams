@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>/Users/ashley/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Embracing-Dreams/Embracing-Dreams_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/ashley/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Embracing-Dreams/Embracing-Dreams_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/ashley/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Embracing-Dreams/Embracing-Dreams_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/ashley/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/Embracing-Dreams/Embracing-Dreams_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2228651116" Language="SFX" Hash="3586588807">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main_Soundbank</ObjectPath>
+			<ShortName>Main_Soundbank</ShortName>
+			<Path>Main_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3121981038" Name="Play_Beginning_Cutscene_Music" ObjectPath="\Events\Default Work Unit\Play_Beginning_Cutscene_Music" DurationType="OneShot" DurationMin="53.411995" DurationMax="53.411995">
+					<IncludedMemoryFiles>
+						<File Id="67556567" Language="SFX">
+							<ShortName>Rem's Theme Piano.wav</ShortName>
+							<Path>SFX/Rem's Theme Piano_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="709474718" Name="Play_bumping_into_enemy" ObjectPath="\Events\Default Work Unit\Play_bumping_into_enemy" DurationType="OneShot" DurationMin="1.480181" DurationMax="1.480181">
+					<IncludedMemoryFiles>
+						<File Id="895426406" Language="SFX">
+							<ShortName>bumping_into_enemy.wav</ShortName>
+							<Path>SFX/bumping_into_enemy_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1149159311" Name="Play_button_click" ObjectPath="\Events\Default Work Unit\Play_button_click" DurationType="OneShot" DurationMin="0.09093" DurationMax="0.09093">
+					<IncludedMemoryFiles>
+						<File Id="511316756" Language="SFX">
+							<ShortName>button_click.wav</ShortName>
+							<Path>SFX/button_click_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2615446531" Name="Play_climbing" ObjectPath="\Events\Default Work Unit\Play_climbing" DurationType="OneShot" DurationMin="0.650845" DurationMax="0.730549">
+					<IncludedMemoryFiles>
+						<File Id="416999979" Language="SFX">
+							<ShortName>footstep_grass_002.wav</ShortName>
+							<Path>SFX/footstep_grass_002_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2852492932" Name="Play_DesignScene_Music" ObjectPath="\Events\Default Work Unit\Play_DesignScene_Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="888773837" Language="SFX">
+							<ShortName>Sostenuto Level 1 Loopable.wav</ShortName>
+							<Path>SFX/Sostenuto Level 1 Loopable_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1273704050" Name="Play_Ending_Cutscene_Music" ObjectPath="\Events\Default Work Unit\Play_Ending_Cutscene_Music" DurationType="OneShot" DurationMin="72.230003" DurationMax="72.230003">
+					<IncludedMemoryFiles>
+						<File Id="345983382" Language="SFX">
+							<ShortName>Rem's Theme Orchestra.wav</ShortName>
+							<Path>SFX/Rem's Theme Orchestra_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4079556579" Name="Play_Finally" ObjectPath="\Events\Default Work Unit\Play_Finally" DurationType="OneShot" DurationMin="3.050667" DurationMax="3.050667">
+					<IncludedMemoryFiles>
+						<File Id="233957570" Language="SFX">
+							<ShortName>Finally! Here’s the AAA.wav</ShortName>
+							<Path>SFX/Finally! Here’s the AAA_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3854155799" Name="Play_footsteps" ObjectPath="\Events\Default Work Unit\Play_footsteps" DurationType="OneShot" DurationMin="0.097234" DurationMax="0.109142">
+					<IncludedMemoryFiles>
+						<File Id="674475223" Language="SFX">
+							<ShortName>walking_01.wav</ShortName>
+							<Path>SFX/walking_01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="292438566" Name="Play_I_cant_rest_yet" ObjectPath="\Events\Default Work Unit\Play_I_cant_rest_yet" DurationType="OneShot" DurationMin="4.352" DurationMax="4.352">
+					<IncludedMemoryFiles>
+						<File Id="529823206" Language="SFX">
+							<ShortName>I can’t rest yet.wav</ShortName>
+							<Path>SFX/I can’t rest yet_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2780927730" Name="Play_I_cant_waste_time_here" ObjectPath="\Events\Default Work Unit\Play_I_cant_waste_time_here" DurationType="OneShot" DurationMin="11.238458" DurationMax="11.238458">
+					<IncludedMemoryFiles>
+						<File Id="618250678" Language="SFX">
+							<ShortName>I can’t waste time here.wav</ShortName>
+							<Path>SFX/I can’t waste time here_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2253984371" Name="Play_I_need_to_go_back" ObjectPath="\Events\Default Work Unit\Play_I_need_to_go_back" DurationType="OneShot" DurationMin="3.733333" DurationMax="3.733333">
+					<IncludedMemoryFiles>
+						<File Id="178660132" Language="SFX">
+							<ShortName>I need to go back.wav</ShortName>
+							<Path>SFX/I need to go back_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="516137742" Name="Play_I_need_to_recharge" ObjectPath="\Events\Default Work Unit\Play_I_need_to_recharge" DurationType="OneShot" DurationMin="2.730667" DurationMax="2.730667">
+					<IncludedMemoryFiles>
+						<File Id="749834874" Language="SFX">
+							<ShortName>I need to recharge.wav</ShortName>
+							<Path>SFX/I need to recharge_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="27021568" Name="Play_I_shouldnt_be_here" ObjectPath="\Events\Default Work Unit\Play_I_shouldnt_be_here" DurationType="OneShot" DurationMin="2.901333" DurationMax="2.901333">
+					<IncludedMemoryFiles>
+						<File Id="1069401619" Language="SFX">
+							<ShortName>I shouldn’t be here.wav</ShortName>
+							<Path>SFX/I shouldn’t be here_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="716733244" Name="Play_Its_not_my_fault_Im_this_tall" ObjectPath="\Events\Default Work Unit\Play_Its_not_my_fault_Im_this_tall" DurationType="OneShot" DurationMin="4.063492" DurationMax="4.063492">
+					<IncludedMemoryFiles>
+						<File Id="816024009" Language="SFX">
+							<ShortName>It’s not my fault I’m this tall.wav</ShortName>
+							<Path>SFX/It’s not my fault I’m this tall_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1472068577" Name="Play_Level_Three_Music" ObjectPath="\Events\Default Work Unit\Play_Level_Three_Music" DurationType="OneShot" DurationMin="13.837914" DurationMax="13.837914">
+					<IncludedMemoryFiles>
+						<File Id="318838562" Language="SFX">
+							<ShortName>Sostenuto Level 3 Loopable.wav</ShortName>
+							<Path>SFX/Sostenuto Level 3 Loopable_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3615135511" Name="Play_Level_Two_Music" ObjectPath="\Events\Default Work Unit\Play_Level_Two_Music" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="997949217" Language="SFX">
+							<ShortName>Sostenuto Level 2 Loopable.wav</ShortName>
+							<Path>SFX/Sostenuto Level 2 Loopable_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4047841495" Name="Play_Mom_stop_Im_trying" ObjectPath="\Events\Default Work Unit\Play_Mom_stop_Im_trying" DurationType="OneShot" DurationMin="3.712" DurationMax="3.712">
+					<IncludedMemoryFiles>
+						<File Id="594029738" Language="SFX">
+							<ShortName>Mom stop I’m trying.wav</ShortName>
+							<Path>SFX/Mom stop I’m trying_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="537418623" Name="Play_music_note_respawn" ObjectPath="\Events\Default Work Unit\Play_music_note_respawn" DurationType="OneShot" DurationMin="0.692268" DurationMax="0.692268">
+					<IncludedMemoryFiles>
+						<File Id="118269305" Language="SFX">
+							<ShortName>glass_004.wav</ShortName>
+							<Path>SFX/glass_004_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1316737242" Name="Play_Piano_strings" ObjectPath="\Events\Default Work Unit\Play_Piano_strings" DurationType="OneShot" DurationMin="6.442667" DurationMax="6.442667">
+					<IncludedMemoryFiles>
+						<File Id="935154625" Language="SFX">
+							<ShortName>Piano strings.wav</ShortName>
+							<Path>SFX/Piano strings_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3838431260" Name="Play_picking_up_note" ObjectPath="\Events\Default Work Unit\Play_picking_up_note" DurationType="OneShot" DurationMin="0.399708" DurationMax="0.399708">
+					<IncludedMemoryFiles>
+						<File Id="494193214" Language="SFX">
+							<ShortName>picking_up_note.wav</ShortName>
+							<Path>SFX/picking_up_note_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="343079892" Name="Play_Sobbing" ObjectPath="\Events\Default Work Unit\Play_Sobbing" DurationType="OneShot" DurationMin="4.757333" DurationMax="4.757333">
+					<IncludedMemoryFiles>
+						<File Id="833631056" Language="SFX">
+							<ShortName>Sobbing.wav</ShortName>
+							<Path>SFX/Sobbing_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2537712526" Name="Play_This_sucks" ObjectPath="\Events\Default Work Unit\Play_This_sucks" DurationType="OneShot" DurationMin="2.716735" DurationMax="2.716735">
+					<IncludedMemoryFiles>
+						<File Id="1071143674" Language="SFX">
+							<ShortName>This sucks.wav</ShortName>
+							<Path>SFX/This sucks_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

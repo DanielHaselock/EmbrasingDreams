@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{A07CBD5A-9340-4571-8DAF-EB5D6D36BE3B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_DesignScene_Music" ID="{D615252A-D960-477E-A803-F3C835B7EF3C}">
+					<ChildrenList>
+						<Action Name="" ID="{E73DF65B-981D-4BDB-A6C2-A10F4F4A28BD}" ShortID="36466176">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DesignScene_Music" ID="{44F48E69-9F36-4703-952D-69EE5BC9DCBB}" WorkUnitID="{E2F0BB5C-A5EB-4FEF-9B64-8A8BBF64D407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Level_Two_Music" ID="{FD3F1C6C-EF71-4F6B-B0F6-0EACB6BAC146}">
+					<ChildrenList>
+						<Action Name="" ID="{418209A6-9157-4AD3-8F60-3AC68E13F5BA}" ShortID="430237291">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Level_Two_Music" ID="{6E9F5144-4B8C-4DBF-A49C-CA36C9134AD7}" WorkUnitID="{E2F0BB5C-A5EB-4FEF-9B64-8A8BBF64D407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Beginning_Cutscene_Music" ID="{0E8AFF19-7194-4DFE-8B54-A59BAC6CD646}">
+					<ChildrenList>
+						<Action Name="" ID="{80F22D8D-5D3F-4CDA-8BBF-7051EBE80295}" ShortID="770975633">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Beginning_Cutscene_Music" ID="{D49E74DF-2C1B-450A-A4B7-88E13406C143}" WorkUnitID="{E2F0BB5C-A5EB-4FEF-9B64-8A8BBF64D407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Finally" ID="{D0E7B5C4-F2BB-4E66-8F30-E684FD167B08}">
+					<ChildrenList>
+						<Action Name="" ID="{436F0175-89E0-4C2D-8010-E77692E35C4A}" ShortID="213813968">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Finally! Here's the AAA" ID="{23DC6417-7688-4185-8DB9-AE7863B4A321}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_I_cant_rest_yet" ID="{9CC874AD-2143-48C8-B71B-AC087FDFAB88}">
+					<ChildrenList>
+						<Action Name="" ID="{21427CDD-97E5-4260-B26C-F85E7C46FE5F}" ShortID="791753010">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="I can't rest yet" ID="{8006E936-3ADA-49EC-9229-1F0D8CD7C63D}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_I_need_to_go_back" ID="{EB4ECFB7-B956-4D51-B550-72B318DB4F1C}">
+					<ChildrenList>
+						<Action Name="" ID="{8E8451D5-8656-4ECD-9381-793FBD1627BE}" ShortID="472853855">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="I need to go back" ID="{17FB6C6C-DC12-42A6-978C-E7C95668B343}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_I_need_to_recharge" ID="{2166AB38-8826-4A97-B707-AB8927FFB7FD}">
+					<ChildrenList>
+						<Action Name="" ID="{9C2B7E19-462F-49F6-B321-5899D56A9239}" ShortID="443047101">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="I need to recharge" ID="{37DD903F-2340-4F10-A165-89353EEBE1CE}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_I_shouldnt_be_here" ID="{2B91E6E4-69CC-46B6-A091-69DB6340139D}">
+					<ChildrenList>
+						<Action Name="" ID="{E946B54B-36E1-4C33-A73F-23845C38F031}" ShortID="109127673">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="I shouldn't be here" ID="{C0046324-1195-42F7-B443-BB2947597023}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Mom_stop_Im_trying" ID="{B02C6A01-8865-496F-9F1F-B58F769A4082}">
+					<ChildrenList>
+						<Action Name="" ID="{B6F36D68-BD5C-47E9-8153-C578AB836D42}" ShortID="947831054">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Mom stop I'm trying" ID="{3F7A121C-7141-48EF-BE93-53D1A70A61E3}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Piano_strings" ID="{F38E8970-0700-4932-8E09-AD14D3D79AE7}">
+					<ChildrenList>
+						<Action Name="" ID="{FD601D70-1D9A-4EF8-9B29-9C482718864E}" ShortID="544986516">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Piano strings" ID="{0DB49AF7-6A7C-4A06-8962-AE2716B405FB}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Sobbing" ID="{C5ED0E16-DA82-46EE-A1F9-D50D309E1E55}">
+					<ChildrenList>
+						<Action Name="" ID="{90E150EB-B8F3-4ABE-9A55-3BA173E5423D}" ShortID="652272755">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Sobbing" ID="{244FFF80-8C75-4DDC-8F11-E8F84BD98CC7}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_This_sucks" ID="{60B16B3E-14AF-4F68-913C-9BA1A2F94DFA}">
+					<ChildrenList>
+						<Action Name="" ID="{328125C3-2828-4404-8130-5B060567B390}" ShortID="985113556">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="This sucks" ID="{CA4F7D9E-667B-410F-9B33-1779D437B7E7}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Its_not_my_fault_Im_this_tall" ID="{CDF89332-0537-445F-9AF4-EB7736E2DDD6}">
+					<ChildrenList>
+						<Action Name="" ID="{7CB34245-0258-473E-997C-79E7ED370BA5}" ShortID="8736161">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="It's not my fault I'm this tall" ID="{7E914994-18D1-4A38-8C22-57C56A336328}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_I_cant_waste_time_here" ID="{487A3542-8338-4B0F-8BD9-90F4D0442ED8}">
+					<ChildrenList>
+						<Action Name="" ID="{95B7E32E-13D2-4486-9B0E-425E022E378B}" ShortID="863057104">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="I can't waste time here" ID="{956A2938-666A-47C7-9D1E-FB37D051285F}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Ending_Cutscene_Music" ID="{E3430E86-C36F-42D5-ACBF-611BE3ACDDDE}">
+					<ChildrenList>
+						<Action Name="" ID="{A03664AE-473E-4B79-84DA-C165BEB3476D}" ShortID="115140933">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ending_Cutscene_Music" ID="{C29A1DAC-C31A-47AD-A055-54A2D462D53C}" WorkUnitID="{E2F0BB5C-A5EB-4FEF-9B64-8A8BBF64D407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Level_Three_Music" ID="{EB03BA78-0C78-40B7-BCEB-7CCF667D6CA4}">
+					<ChildrenList>
+						<Action Name="" ID="{211EF0DD-5BFB-44EC-A324-EF7E1E2E8BF1}" ShortID="297304723">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Sostenuto Level 3 Loopable" ID="{DF4FED66-AC0E-4A7F-B450-1933915C536E}" WorkUnitID="{E2F0BB5C-A5EB-4FEF-9B64-8A8BBF64D407}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_footsteps" ID="{3E198839-2770-4C0B-8ED2-2F9D310069C0}">
+					<ChildrenList>
+						<Action Name="" ID="{EA5B9F6F-6BC3-4866-974E-31772D66EE55}" ShortID="331095961">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{726BA776-9586-43A8-8865-16D9CF8DFE52}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_button_click" ID="{02080BEB-C7FA-4787-A877-5397DBED9E33}">
+					<ChildrenList>
+						<Action Name="" ID="{5D8539CD-AA53-429F-94B1-40AB978D648A}" ShortID="353797224">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Button Click" ID="{4A808CF6-EB52-4192-9430-D87D192A6D8D}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_bumping_into_enemy" ID="{A50870CC-6483-433F-B592-01AA3863A5A8}">
+					<ChildrenList>
+						<Action Name="" ID="{BF8D49B4-32E6-45CC-89B3-C47DDF8A6606}" ShortID="640986760">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bumping into enemy" ID="{3081465C-5145-4453-B793-44FCA34D3D9F}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_picking_up_note" ID="{D84E9F3F-B429-4579-AA9E-492B8C588D06}">
+					<ChildrenList>
+						<Action Name="" ID="{C9EC2141-F21C-4F49-B2D9-EFFDA24464FA}" ShortID="860134645">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Picking up note" ID="{7224A3DC-F6ED-4730-8AC2-0EE2E20ADAED}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_music_note_respawn" ID="{6D3EBEC0-6A3C-4F48-87F9-EDDEF16D7D20}">
+					<ChildrenList>
+						<Action Name="" ID="{E31FD139-5422-4F30-ABEC-233D752FF601}" ShortID="669894002">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music note respawn" ID="{75F2CEA1-0F04-4EAF-BFCA-B5CDFF43AF16}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_climbing" ID="{BEC6FC96-F0BC-4CCC-BE5B-D2F44480A758}">
+					<ChildrenList>
+						<Action Name="" ID="{A36F5240-E6DD-445B-95CE-CE8E2115C634}" ShortID="50158055">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Climbing" ID="{EC6B11D9-5734-47F1-8817-C291BD6797F4}" WorkUnitID="{0E44EC77-9DC0-461B-8F53-BE854694D5A1}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
